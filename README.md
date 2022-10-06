@@ -17,6 +17,7 @@ git clone https://github.com/MrKalister/antiafk_in_killing_floor.git
 git clone git@github.com:MrKalister/antiafk_in_killing_floor.git
 ```
 Также возможно нажать code и выбрать download zip.
+
 2. Установить виртуальное окружение:
 ```
 python -m venv venv
